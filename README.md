@@ -1,2 +1,2 @@
 # openGL_Triangle
-Learning openGL
+Learning computer graphics using C++,openGL,GLFW and glad
